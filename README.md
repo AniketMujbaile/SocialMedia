@@ -50,6 +50,4 @@ The project is running on the port number provided by you.
 - Bootstrap
 
 
-## 🖼️ Screenshots
 
-![](./Images/2.png)
