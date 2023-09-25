@@ -12,9 +12,9 @@ Frontend (React.js):
 (like, comment, share).
 - Implement user registration and login functionalities.
   
- ### 🔗 Hosted link: [Employee review system](https://socialapp-4360e24a13f2.herokuapp.com/)
+ ### 🔗 Hosted link: [Social Media](https://socialapp-4360e24a13f2.herokuapp.com/)
 
-![Home Page](./Images/1.png)
+![Login Page](./Images/1.png)
 
 
 ## 🧑‍💻 Getting started
